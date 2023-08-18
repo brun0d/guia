@@ -1,6 +1,6 @@
 ## Viajes pasados
 - [Europa del este](#europa-del-este---pichones)
-- [Karen en España](karen-en-espana)
+- [Karen en España](#karen-en-españa)
 
 ##### Europa del este - Pichones
 1. Notas
