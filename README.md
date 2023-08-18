@@ -37,8 +37,6 @@
 - [Karen en España](./archivo/README.md)
 
 3. Numeros importantes
-- Emergencias 112
-- Policia 110
 
 | Contacto        | Numero      |
 | ------------- |:-------------:| 
